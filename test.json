@@ -1,0 +1,16 @@
+[
+    {
+        "name": "number_of_clicks",
+        "namespace": "myapp",
+        "id": "b70015b0-0c04-4f65-93f5-a2a905696e35",
+        "value": 0,
+        "timestamp": 1693952063609
+    },
+    {
+        "name": "number_of_clicks",
+        "namespace": "myapp",
+        "id": "29c730c2-61dc-4e99-b52c-c56460acae5d",
+        "value": 1,
+        "timestamp": 1693952064610
+    }
+]
